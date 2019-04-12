@@ -1,6 +1,3 @@
-package com.pyramidpattern.test;
-
-import java.util.Scanner;
 /*
 1
 23
@@ -8,6 +5,10 @@ import java.util.Scanner;
 78910
 1112131415
 */
+
+package com.pyramidpattern.test;
+
+import java.util.Scanner;
 
 public class PyramidPattern10 {
 	
